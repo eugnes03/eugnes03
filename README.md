@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,vim,bash,emacs,git,py,ruby,rails,html,java,js&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,vim,bash,emacs,git,py,ruby,rails,html,java,js&theme=dark" />
   </a>
 </p>
+
