@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 
-# 💫 About Me:
-🔭 I’m currently working on my Math and Computer Science degree<br>👯 I’m looking to collaborate on anything related to low level programming<br>🌱 I’m currently learning C and Assembly<br>⚡ Fun fact: I play chess
+
 
 
 ## 🌐 Socials:
