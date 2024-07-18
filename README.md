@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **eugnes03/eugnes03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+I am currently working as an intern at Dintero, as a Backend Developer. I am currently studying computer science and math at Boston University. 
 
 
 
