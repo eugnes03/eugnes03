@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working as an intern at Dintero, as a Backend Developer. I am currently studying computer science and math at Boston University. 
+ I am currently studying computer science and math at Boston University. 
 
 
 
