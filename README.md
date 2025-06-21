@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- I am currently studying computer science and math at Boston University. 
-
+ I am a recent graduate from Boston University with a BA in Computer Science and Mathematics!
 
 
 
