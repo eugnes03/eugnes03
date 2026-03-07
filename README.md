@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,vim,bash,emacs,git,py,ruby,rails,html,java,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,neovim,bash,git,py,html,java,js,clojure&theme=dark" />
   </a>
 </p>
 
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=eugnes03&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eugnes03&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugnes03&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
