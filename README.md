@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
  My website is https://eugnes03.github.io/personalwebpage/ where I post more about what I am learning and more information. The repo for this is publically available. My current tech stack is mostly Clojure and LaTeX.
 
+In addition, I have a project going: MathAtlas. This is my attempt to map out mathematical knowledge from tex notes, and create a database of definitions, proofs, theorems, remarks from different areas: https://eugnes03.github.io/MathAtlas/
 
 
 ## 🌐 Socials:
