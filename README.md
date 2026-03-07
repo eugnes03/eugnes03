@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+Hello!
 <!--
 **eugnes03/eugnes03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- I am a recent graduate from Boston University with a BA in Computer Science and Mathematics!
+ I am a graduate student studying Mathematics at Boston University!
+
+ My website is https://eugnes03.github.io/personalwebpage/ where I post more about what I am learning and more information. The repo for this is publically available. My current tech stack is mostly Clojure and LaTeX.
 
 
 
