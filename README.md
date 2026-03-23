@@ -27,7 +27,7 @@ In addition, I have a project going: MathAtlas. This is my attempt to map out ma
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,neovim,bash,git,py,html,java,js,clojure&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,neovim,bash,git,py,html,js,clojure,cpp,pytorch&theme=dark" />
   </a>
 </p>
 <div align="center">
